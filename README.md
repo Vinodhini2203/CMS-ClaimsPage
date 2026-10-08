@@ -1,0 +1,1 @@
+Here i have created Test scripts in Playwright along with Typescript for a claims management web application. I have written test scripts for three modules which are Roles, Users and Claims. Not completed all the testcases still exploring new testcases and current status was "In Progress".
